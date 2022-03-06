@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(147, 240, 147);
+}
+
+.who{
+    width: 700px;
+    height: 90px;
+    margin-left: 320px;
+    margin-top: 100px;
+    background-color: white;
+    color: gray;
+    border-bottom: 3px solid rgb(196, 196, 196);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.where{
+    width: 300px;
+    height: 350px;
+    margin-left: 320px;
+    border-right: 3px solid rgb(196, 196, 196);
+
+}
+
+.how{
+    width: 397px;
+    height: 350px;
+    background-color: #fff;
+    margin-bottom: 100px;
+}
+
+.new_div{
+    display: flex;
+}
+
+.class_p_1{
+    font-family: sans-serif;
+    font-size: 24px;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+.class_p_2{
+    font-family: sans-serif;
+    font-size: 14px;
+    padding-left: 50px;
+}
+
+.class_p_3{
+    font-size: 28px;
+    padding-left: 50px;
+}
+
+.lorem{
+    font-family: sans-serif;  
+    text-align: center;  
+}
+
+.add{
+    font-family: sans-serif;
+    width: 150px;
+    margin-left: 30px;
+    height: 50px;
+    background-color: #fff;
+    border: 1px solid black;
+}
+
+.additionally{
+    width: 150px;
+    margin-left: 25px;
+    height: 50px;
+    background-color: #fff;
+    border: 1px solid black;
+}
+.button_2{
+    display: flex;
+}
+
+.fa-angle-left{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+.p_001{
+    padding-top: 40px;
+    color: black;
+    padding-left: 20px;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+.fa-heart{
+    padding-left: 670px;
+}
